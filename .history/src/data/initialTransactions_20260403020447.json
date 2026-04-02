@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "title": "Monthly payroll — Acme Corp",
+    "date": "2025-09-01",
+    "amount": 87500,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": 2,
+    "title": "Rent — September",
+    "date": "2025-09-02",
+    "amount": 24000,
+    "category": "Rent",
+    "type": "expense"
+  },
+  {
+    "id": 3,
+    "title": "BigBasket weekly stock-up",
+    "date": "2025-09-04",
+    "amount": 3850,
+    "category": "Groceries",
+    "type": "expense"
+  },
+  {
+    "id": 4,
+    "title": "Metro card top-up",
+    "date": "2025-09-05",
+    "amount": 1500,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": 5,
+    "title": "Freelance UI sprint",
+    "date": "2025-09-08",
+    "amount": 18500,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": 6,
+    "title": "Electricity bill",
+    "date": "2025-09-09",
+    "amount": 2100,
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": 7,
+    "title": "Dinner — Italian place",
+    "date": "2025-09-11",
+    "amount": 2800,
+    "category": "Dining",
+    "type": "expense"
+  },
+  {
+    "id": 8,
+    "title": "Amazon — electronics",
+    "date": "2025-09-12",
+    "amount": 6499,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": 9,
+    "title": "Mutual fund SIP credit",
+    "date": "2025-09-15",
+    "amount": 3200,
+    "category": "Investment",
+    "type": "income"
+  },
+  {
+    "id": 10,
+    "title": "Netflix + Spotify",
+    "date": "2025-09-16",
+    "amount": 899,
+    "category": "Subscriptions",
+    "type": "expense"
+  },
+  {
+    "id": 11,
+    "title": "Pharmacy & vitamins",
+    "date": "2025-09-18",
+    "amount": 1250,
+    "category": "Health",
+    "type": "expense"
+  },
+  {
+    "id": 12,
+    "title": "Uber airport run",
+    "date": "2025-09-20",
+    "amount": 980,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": 13,
+    "title": "Course — data viz",
+    "date": "2025-09-22",
+    "amount": 4500,
+    "category": "Education",
+    "type": "expense"
+  },
+  {
+    "id": 14,
+    "title": "Weekend groceries",
+    "date": "2025-09-24",
+    "amount": 4100,
+    "category": "Groceries",
+    "type": "expense"
+  },
+  {
+    "id": 15,
+    "title": "Mobile & broadband",
+    "date": "2025-09-25",
+    "amount": 1299,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": 16,
+    "title": "Monthly payroll — Acme Corp",
+    "date": "2025-10-01",
+    "amount": 87500,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": 17,
+    "title": "Rent — October",
+    "date": "2025-10-02",
+    "amount": 24000,
+    "category": "Rent",
+    "type": "expense"
+  },
+  {
+    "id": 18,
+    "title": "Diwali gifts & decor",
+    "date": "2025-10-05",
+    "amount": 9200,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": 19,
+    "title": "Client retainer — Oct",
+    "date": "2025-10-07",
+    "amount": 22000,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": 20,
+    "title": "Flight — work trip BLR",
+    "date": "2025-10-10",
+    "amount": 7800,
+    "category": "Travel",
+    "type": "expense"
+  },
+  {
+    "id": 21,
+    "title": "Hotel reimbursement",
+    "date": "2025-10-12",
+    "amount": 4500,
+    "category": "Refund",
+    "type": "income"
+  },
+  {
+    "id": 22,
+    "title": "Groceries — festival week",
+    "date": "2025-10-14",
+    "amount": 5600,
+    "category": "Groceries",
+    "type": "expense"
+  },
+  {
+    "id": 23,
+    "title": "Concert tickets",
+    "date": "2025-10-16",
+    "amount": 3500,
+    "category": "Entertainment",
+    "type": "expense"
+  },
+  {
+    "id": 24,
+    "title": "Fuel — car",
+    "date": "2025-10-18",
+    "amount": 4200,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": 25,
+    "title": "Dining — team lunch",
+    "date": "2025-10-19",
+    "amount": 1650,
+    "category": "Dining",
+    "type": "expense"
+  },
+  {
+    "id": 26,
+    "title": "Annual insurance premium",
+    "date": "2025-10-21",
+    "amount": 14800,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": 27,
+    "title": "Gym membership",
+    "date": "2025-10-23",
+    "amount": 2000,
+    "category": "Health",
+    "type": "expense"
+  },
+  {
+    "id": 28,
+    "title": "Cloud & dev tools",
+    "date": "2025-10-25",
+    "amount": 2499,
+    "category": "Subscriptions",
+    "type": "expense"
+  },
+  {
+    "id": 29,
+    "title": "Weekend getaway — resort",
+    "date": "2025-10-28",
+    "amount": 12000,
+    "category": "Travel",
+    "type": "expense"
+  },
+  {
+    "id": 30,
+    "title": "Coursera specialization",
+    "date": "2025-10-30",
+    "amount": 3999,
+    "category": "Education",
+    "type": "expense"
+  },
+  {
+    "id": 31,
+    "title": "Monthly payroll — Acme Corp",
+    "date": "2025-11-01",
+    "amount": 89200,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": 32,
+    "title": "Rent — November",
+    "date": "2025-11-02",
+    "amount": 24500,
+    "category": "Rent",
+    "type": "expense"
+  },
+  {
+    "id": 33,
+    "title": "Black Friday electronics",
+    "date": "2025-11-08",
+    "amount": 18999,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": 34,
+    "title": "Freelance — API integration",
+    "date": "2025-11-10",
+    "amount": 16000,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": 35,
+    "title": "Groceries — monthly bulk",
+    "date": "2025-11-12",
+    "amount": 6200,
+    "category": "Groceries",
+    "type": "expense"
+  },
+  {
+    "id": 36,
+    "title": "Dining — friends",
+    "date": "2025-11-14",
+    "amount": 3400,
+    "category": "Dining",
+    "type": "expense"
+  },
+  {
+    "id": 37,
+    "title": "Dividend payout",
+    "date": "2025-11-15",
+    "amount": 5100,
+    "category": "Investment",
+    "type": "income"
+  },
+  {
+    "id": 38,
+    "title": "Auto service",
+    "date": "2025-11-17",
+    "amount": 7200,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": 39,
+    "title": "Doctor consultation",
+    "date": "2025-11-19",
+    "amount": 1800,
+    "category": "Health",
+    "type": "expense"
+  },
+  {
+    "id": 40,
+    "title": "Utilities — water + gas",
+    "date": "2025-11-21",
+    "amount": 1400,
+    "category": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": 41,
+    "title": "Streaming annual upgrade",
+    "date": "2025-11-23",
+    "amount": 1499,
+    "category": "Subscriptions",
+    "type": "expense"
+  },
+  {
+    "id": 42,
+    "title": "Charity donation",
+    "date": "2025-11-25",
+    "amount": 3000,
+    "category": "Bills",
+    "type": "expense"
+  },
+  {
+    "id": 43,
+    "title": "Book purchases",
+    "date": "2025-11-27",
+    "amount": 2200,
+    "category": "Education",
+    "type": "expense"
+  },
+  {
+    "id": 44,
+    "title": "Flight — family visit",
+    "date": "2025-11-29",
+    "amount": 11200,
+    "category": "Travel",
+    "type": "expense"
+  },
+  {
+    "id": 45,
+    "title": "Monthly payroll — Acme Corp",
+    "date": "2025-12-01",
+    "amount": 89200,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": 46,
+    "title": "Rent — December",
+    "date": "2025-12-02",
+    "amount": 24500,
+    "category": "Rent",
+    "type": "expense"
+  },
+  {
+    "id": 47,
+    "title": "Year-end bonus",
+    "date": "2025-12-05",
+    "amount": 35000,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": 48,
+    "title": "Holiday shopping",
+    "date": "2025-12-10",
+    "amount": 15400,
+    "category": "Shopping",
+    "type": "expense"
+  },
+  {
+    "id": 49,
+    "title": "Groceries — party",
+    "date": "2025-12-18",
+    "amount": 8900,
+    "category": "Groceries",
+    "type": "expense"
+  },
+  {
+    "id": 50,
+    "title": "New Year trip — flights",
+    "date": "2025-12-28",
+    "amount": 16800,
+    "category": "Travel",
+    "type": "expense"
+  },
+  {
+    "id": 51,
+    "title": "Monthly payroll — Acme Corp",
+    "date": "2026-01-01",
+    "amount": 91000,
+    "category": "Salary",
+    "type": "income"
+  },
+  {
+    "id": 52,
+    "title": "Rent — January",
+    "date": "2026-01-02",
+    "amount": 25000,
+    "category": "Rent",
+    "type": "expense"
+  },
+  {
+    "id": 53,
+    "title": "Freelance — Jan sprint",
+    "date": "2026-01-08",
+    "amount": 14000,
+    "category": "Freelance",
+    "type": "income"
+  },
+  {
+    "id": 54,
+    "title": "Groceries — week 1",
+    "date": "2026-01-10",
+    "amount": 4800,
+    "category": "Groceries",
+    "type": "expense"
+  },
+  {
+    "id": 55,
+    "title": "Dining & cafes",
+    "date": "2026-01-14",
+    "amount": 2900,
+    "category": "Dining",
+    "type": "expense"
+  },
+  {
+    "id": 56,
+    "title": "Investment — STCG",
+    "date": "2026-01-16",
+    "amount": 2800,
+    "category": "Investment",
+    "type": "income"
+  },
+  {
+    "id": 57,
+    "title": "EV charging + metro",
+    "date": "2026-01-18",
+    "amount": 2100,
+    "category": "Transport",
+    "type": "expense"
+  },
+  {
+    "id": 58,
+    "title": "Annual software bundle",
+    "date": "2026-01-22",
+    "amount": 9999,
+    "category": "Subscriptions",
+    "type": "expense"
+  },
+  {
+    "id": 59,
+    "title": "Dental checkup",
+    "date": "2026-01-25",
+    "amount": 3500,
+    "category": "Health",
+    "type": "expense"
+  },
+  {
+    "id": 60,
+    "title": "Weekend trip — hills",
+    "date": "2026-01-28",
+    "amount": 9500,
+    "category": "Travel",
+    "type": "expense"
+  }
+]

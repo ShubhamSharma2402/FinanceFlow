@@ -1,0 +1,54 @@
+/* Zorvyn-style page entrance */
+.page-enter {
+  opacity: 0;
+  transform: translateY(14px);
+  filter: blur(6px);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  filter: blur(0);
+  transition:
+    opacity 0.55s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.55s cubic-bezier(0.22, 1, 0.36, 1),
+    filter 0.45s ease;
+}
+
+.card-animate {
+  animation: riseFade 0.65s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@keyframes riseFade {
+  0% {
+    opacity: 0;
+    transform: translateY(18px) scale(0.985);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.card-hover {
+  transition:
+    transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.35s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 20px 40px -16px rgb(15 23 42 / 12%);
+}
+
+.dark .card-hover:hover {
+  box-shadow: 0 24px 48px -20px rgb(0 0 0 / 45%);
+}
+
+.pressable {
+  transition: transform 0.15s ease;
+}
+
+.pressable:active {
+  transform: scale(0.97);
+}
