@@ -6,7 +6,7 @@ This project demonstrates UI design skills, state management, component architec
 ---
 
 ## 🚀 Live Demo  
-(If deployed on Vercel — add link here)
+https://finance-flow-dusky.vercel.app
 
 ---
 
